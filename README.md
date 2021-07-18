@@ -12,3 +12,5 @@ sudo apt /opt/lampp/lampp start
 
 Xamp Stop :
 sudo apt /opt/lampp/lampp stop
+
+Execution from terminal : php index.php
