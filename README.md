@@ -1,4 +1,4 @@
-# Grepsr_Web_scraping_PHP
+# Grepsr Web scraping PHP Assignment
 Dependency : Xampp, PHP CURL
 
 PHP CURL Install:
